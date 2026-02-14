@@ -10,11 +10,11 @@
 
 <br>
 
-## 📈 Project Overview
+##  Project Overview
 
 This Power BI project provides a comprehensive, end-to-end analysis of sales data for a mobile phone retailer. The solution transforms a raw Excel dataset into a fully interactive, multi-faceted dashboard. This tool empowers stakeholders to track high-level performance, drill down into granular details, and uncover actionable insights on sales trends, top-performing products, customer ratings, and regional hotspots to optimize marketing, inventory, and sales strategies.
 
-## 🎯 Objectives
+##  Objectives
 
 -	Track and visualize key performance indicators (KPIs) including Total Sales, Total Quantity Sold, Total Transactions, and Average Price.
 -	Analyze temporal patterns by monitoring sales/quantity trends by month and day of the week.
@@ -23,7 +23,7 @@ This Power BI project provides a comprehensive, end-to-end analysis of sales dat
 -	Provide a geographical analysis of sales performance across different cities in India.
 -	Enable dynamic filtering through a comprehensive set of slicers for granular, on-demand analysis.
 
-## 🔍 Key Dashboard Features
+##  Key Dashboard Features
 
 **Key KPIs:**
 - **Total Sales:** 769M
@@ -49,7 +49,7 @@ This Power BI project provides a comprehensive, end-to-end analysis of sales dat
 **Interactive Filters & Slicers:**
 -	A complete set of slicers for `Month`, `Mobile Model`, `Payment Method`, `Brand`, and `Day Name` allows for powerful and flexible data exploration.
 
-## 💡 Notable Insights
+##  Notable Insights
 
 -	**Apple is the top-performing brand** with 162M in Total Sales, closely followed by Samsung (160M) and OnePlus (154M), indicating a highly competitive market for premium brands.
 -	**Sales peak strongly in July** (1,700 units) and **March** (1,696 units), with a noticeable dip in February (1,451 units). This insight is critical for inventory planning and targeted marketing campaigns.
@@ -57,7 +57,7 @@ This Power BI project provides a comprehensive, end-to-end analysis of sales dat
 -	Payment methods are very evenly distributed, with **UPI (26.25%)**, **Debit Card (25.89%)**, and **Credit Card (25.03%)** being almost equally popular. This diverse payment landscape shows a healthy adoption of various digital payment technologies.
 -	While customer ratings are generally positive (led by 5-star reviews), there is a significant number of 3-star and 2-star ratings, indicating a clear **opportunity to improve customer satisfaction**.
 
-## 🛠️ Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 
 -	**Power BI Desktop**: Data Import, Data Cleaning, Data Modeling, Visualization, and Report Building.
 -	**Power Query (ETL)**: Imported and transformed the raw Excel data; performed extensive data cleaning (trimming text, handling nulls) and set correct data types for accurate analysis.
@@ -71,7 +71,7 @@ This Power BI project provides a comprehensive, end-to-end analysis of sales dat
 -	**Dashboard Design (UI/UX)**: Designed a visually compelling and intuitive dark-mode dashboard with logical layout and interactive slicers for a seamless user experience.
 -	**Power BI Service**: Published the report to the Power BI service to be shared and accessed by stakeholders via a web link.
 
-## 🚀 Usage
+##  Usage
 
 1. **[Launch (Ctrl+Click opens new tab) the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzg3MTUxOWYtMjVmYS00Y2UwLTg5MmEtZWZkMjRmOGVmOGQ3IiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)**.
 2. Use the slicers on the left (Month) and top (Mobile Model, Payment Method, etc.) to filter the data.
